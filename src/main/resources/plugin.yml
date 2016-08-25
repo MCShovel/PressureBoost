@@ -1,0 +1,5 @@
+name: PressureBoost
+main: com.steamcraftmc.PressureBoost.MainPlugin
+version: '0.0.1'
+author: rknapp
+load: startup
